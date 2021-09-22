@@ -63,6 +63,11 @@ body {
     margin-bottom: 60px;
     font-family: 'Roboto Condensed', sans-serif;
 }
+
+.container{
+    width: 900px;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
